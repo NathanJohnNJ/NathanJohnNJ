@@ -69,8 +69,8 @@
 ## 📌 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/NathanJohnNJ/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NathanJohnNJ&repo=portfolio&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/NathanJohnNJ/matrix-eefect">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NathanJohnNJ&repo=matrix-effect&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/NathanJohnNJ/digital-tax">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=NathanJohnNJ&repo=digital-tax&theme=tokyonight&hide_border=true" />
